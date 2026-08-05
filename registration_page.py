@@ -52,7 +52,10 @@ if submit:
         }
 
         response = requests.post(
-            "http://127.0.0.1:8000/register",
+            response = requests.post(
+    "https://your-fastapi-app.onrender.com/register",
+    json=registration_data
+),
             json=registration_data
         )
 
