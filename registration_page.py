@@ -53,7 +53,7 @@ if submit:
 
         response = requests.post(
             response = requests.post(
-    "https://backend-by-fastapi-1.onrender.com/register",
+    "https://backend-by-fastapi-1.onrender.com",
     json=registration_data
 ),
             json=registration_data
