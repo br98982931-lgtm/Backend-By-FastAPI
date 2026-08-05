@@ -51,13 +51,10 @@ if submit:
             "gender": gender
         }
 
-        response = requests.post(
-            response = requests.post(
-    "https://backend-by-fastapi-1.onrender.com",
+      response = requests.post(
+    "https://backend-by-fastapi-1.onrender.com/register",
     json=registration_data
-),
-            json=registration_data
-        )
+)
 
         if response.status_code == 200:
 
