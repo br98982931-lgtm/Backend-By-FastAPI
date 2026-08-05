@@ -11,8 +11,11 @@ Users can enter their registration details through a web form. The Streamlit fro
 
 Use this link to open the registration form and submit user details.
 
-### ⚡ FastAPI Backend / Swagger UI
+### ⚡ FastAPI Backend
 👉 https://backend-by-fastapi-1.onrender.com
+
+### ⚡ Swagger UI
+👉 https://backend-by-fastapi-1.onrender.com/docs
 
 FastAPI provides the backend REST API and interactive Swagger documentation.
 
