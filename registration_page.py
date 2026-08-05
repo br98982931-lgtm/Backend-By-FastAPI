@@ -3,7 +3,7 @@ import requests
 from PIL import Image
 import time
 
-st.image("C:/Users/BHARGAV-RADADIYA/GenAi/FastAPI/br_logo.png", width=200)
+st.image("br_logo.png", width=200)
 
 st.title("Registration Open!")
 
